@@ -18,6 +18,6 @@ This repository contains a Python script for processing DNA sequences.
  
 The processed sequences will be saved in output_sequences.txt.
 ## Script Description
-The script reads a file containing DNA sequences, processes them according to a predefined sequence (seq1), and saves the results. The processing involves replacing certain ambiguous nucleotides (N, R, W, Y, M, K, S, D, V, H, B, X) in the input sequences with corresponding nucleotides from seq1.
+The script reads a file containing DNA coding sequences, processes them according to a predefined sequence (seq1), and saves the results. The processing involves replacing certain ambiguous nucleotides (N, R, W, Y, M, K, S, D, V, H, B, X) in the input sequences with corresponding nucleotides from seq1.
 ## Requirements
 Python 3.x
